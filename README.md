@@ -1,6 +1,4 @@
 ### Hi there :sunglasses:
-My current position: research assistant in econometrics at Maastricht University\
-\
-My interest: Bayesian econometrics in general, dynamic latent variable modeling in particular
+My name is Tim, and I'm currently working as a research assistant in econometrics at Maastricht University. I'm interested in Bayesian econometrics and in particular dynamic latent variable modeling.
 
 
